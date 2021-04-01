@@ -2,7 +2,7 @@
   "name": "com.bckworks.zenject",
   "displayName": "BCKWorks Zenject",
   "description": "Dependency Injection Framework for Unity3D",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "unity": "2021.1",
   "keywords": [],
   "homepage": "https://github.com/BCKWorks/zenject#readme",
