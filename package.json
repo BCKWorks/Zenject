@@ -1,0 +1,31 @@
+{
+  "name": "com.bckworks.zenject",
+  "displayName": "BCKWorks Zenject",
+  "description": "Dependency Injection Framework for Unity3D",
+  "version": "1.0.1",
+  "unity": "2021.1",
+  "keywords": [],
+  "homepage": "https://github.com/BCKWorks/zenject#readme",
+  "bugs": {
+    "url": "https://github.com/BCKWorks/zenject/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BCKWorks/zenject.git#upm"
+  },
+  "license": "MIT",
+  "author": {
+    "name": "BCKWorks",
+    "email": "ck@bckworks.com",
+    "url": "https://github.com/BCKWorks"
+  },
+  "files": [
+    "*.md",
+    "*.meta",
+    "*.asmdef",
+    "*.xml",
+    "Editor",
+    "Runtime",
+    "Samples~"
+  ]
+}
