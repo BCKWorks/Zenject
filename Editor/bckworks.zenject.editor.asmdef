@@ -1,7 +1,12 @@
 {
-    "name": "intervr.ts.zenject",
-    "references": [],
-    "includePlatforms": [],
+    "name": "bckworks.zenject.editor",
+    "rootNamespace": "",
+    "references": [
+        "bckworks.zenject"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
     "excludePlatforms": [],
     "allowUnsafeCode": false,
     "overrideReferences": false,
